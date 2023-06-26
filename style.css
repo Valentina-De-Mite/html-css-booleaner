@@ -1,0 +1,10 @@
+#banner {
+    background-image: url(/images/pattern.png);
+    background-color: rgba(78,160,255,255);
+    width: 100px;
+    height: 100px;
+}
+
+h3{
+    color: gray;
+}
