@@ -1,5 +1,8 @@
-
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .banner {
     background-image: url(./images/pattern.png);
     background-color: rgba(78,160,255,255);
@@ -11,5 +14,6 @@
 }
 .photos{
     margin-bottom: 2px;
+   
     
 }
